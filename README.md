@@ -1,15 +1,6 @@
 # Self Check In App
-
-![](Screenshots/01.png)
-![](Screenshots/02.png)
-![](Screenshots/03.png)
-![](Screenshots/04.png)
-![](Screenshots/05.png)
-![](Screenshots/06.png)
-![](Screenshots/07.png)
-![](Screenshots/08.png)
-![](Screenshots/09.png)
-
+ Screens in the app
+![](Screenshots/screens.gif)
 
 ## Getting Started
 
