@@ -1,6 +1,5 @@
 # HMApp
 
-A new Flutter project.
 
 ## Getting Started
 
